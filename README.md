@@ -13,6 +13,8 @@ This repository enlists the following implementations:
 3. **Pose Detection**
 4. **Image Segmentation**
 
+Other curations are on their way
+
 Media Credits: Mediapipe
 
 
