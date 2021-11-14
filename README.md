@@ -11,5 +11,7 @@ This repository enlists the following implementations:
 3. **Pose Detection**
 4. **Image Segmentation**
 
+Media Credits: Mediapipe
+
 
 
