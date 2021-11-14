@@ -6,10 +6,10 @@ To visit the official site click [here](https://mediapipe.dev/)
 
 This repository enlists the following implementations:
 
-1. Hand Key Point Detection
-2. Face Key Point Detection
-3. Pose Detection
-4. Image Segmentation
+1. **Hand Key Point Detection** 
+2. **Face Key Point Detection**
+3. **Pose Detection**
+4. **Image Segmentation**
 
 
 
